@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/newHibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Rest"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/aopalliance-repackaged-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/hk2-api-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/hk2-locator-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/hk2-utils-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/javax.inject-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-guava-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rest Lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKSHAY DAVE/Downloads/jersey-json-1.19.3.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/hibernate-core-5.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/jandex-2.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/hibernate jars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKSHAY DAVE/Downloads/spring-tx-2.5.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
